@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Student;Machine+Learning+Learner;Python+Explorer;Building+Smart+AI+Projects" />
 </p>
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
-</p>
+
 
 ---
 
