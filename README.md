@@ -51,4 +51,4 @@
 ---
 
 ### ✨ Quote
-💡 *“Artificial Intelligence is not the future — it’s the present we are building.”*
+💡 **“Artificial Intelligence is not the future — it’s the present we are building.”**
