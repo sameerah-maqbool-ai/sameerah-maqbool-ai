@@ -30,7 +30,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerah-maqbool-ai&theme=radical&hide_border=true" height="180"/>
 </p>
-
 ---
 
 ### 🐍 Contribution Snake Animation
